@@ -4,7 +4,7 @@
 
 RenderArea::RenderArea(QWidget *parent) :
     QWidget{parent},
-    mBackgroundColor(0, 0, 255),
+    mBackgroundColor(0, 120, 120),
     mShapeColor(255, 255, 255)
 {
 }
